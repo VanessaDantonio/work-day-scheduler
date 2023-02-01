@@ -6,7 +6,8 @@ This simple application allows a user to save events to a daily planner so that 
 
 ## Appearance
 The app displays the current day at the top of the calendar, presents different color timeblocks based on past, present and future events, saves the event in local storage when the save button is clicked and loads events when the user refreshes the page.
-![Screenshot](./assets/images/Screenshot-work-day-scheduler.png)
+
+![Screenshot of the webpage, gray stands for past, orange for present, and green for future events.](./assets/images/Screenshot-work-day-scheduler.png)
 
 ## Things I learnt
 Through the development of this project, I learned how to use Moment.js library to work with date and time, and jQuery localStorage method to save and load information to the user.
